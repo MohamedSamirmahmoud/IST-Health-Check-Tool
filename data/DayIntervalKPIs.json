@@ -1,0 +1,242 @@
+{
+  "intervals" : [ {
+    "calls" : [ {
+      "max" : 47213,
+      "min" : 22919,
+      "average" : 35141
+    }, {
+      "max" : 7829,
+      "min" : 3690,
+      "average" : 5599
+    }, {
+      "max" : 7146,
+      "min" : 3198,
+      "average" : 5157
+    }, {
+      "max" : 7109,
+      "min" : 3183,
+      "average" : 5131
+    }, {
+      "max" : 1497,
+      "min" : 1040,
+      "average" : 1343
+    }, {
+      "max" : 0,
+      "min" : 0,
+      "average" : 0
+    }, {
+      "max" : 10273,
+      "min" : 4143,
+      "average" : 7134
+    }, {
+      "max" : 157,
+      "min" : 49,
+      "average" : 113
+    } ]
+  }, {
+    "calls" : [ {
+      "max" : 44881,
+      "min" : 35901,
+      "average" : 40391
+    }, {
+      "max" : 9473,
+      "min" : 5530,
+      "average" : 7501
+    }, {
+      "max" : 8691,
+      "min" : 5288,
+      "average" : 6989
+    }, {
+      "max" : 8654,
+      "min" : 5259,
+      "average" : 6956
+    }, {
+      "max" : 1487,
+      "min" : 1465,
+      "average" : 1476
+    }, {
+      "max" : 0,
+      "min" : 0,
+      "average" : 0
+    }, {
+      "max" : 10147,
+      "min" : 6484,
+      "average" : 7780
+    }, {
+      "max" : 158,
+      "min" : 30,
+      "average" : 108
+    } ]
+  }, {
+    "calls" : [ {
+      "max" : 47257,
+      "min" : 46295,
+      "average" : 46776
+    }, {
+      "max" : 10381,
+      "min" : 7400,
+      "average" : 8890
+    }, {
+      "max" : 9476,
+      "min" : 6904,
+      "average" : 8190
+    }, {
+      "max" : 9439,
+      "min" : 6869,
+      "average" : 8154
+    }, {
+      "max" : 1625,
+      "min" : 1509,
+      "average" : 1567
+    }, {
+      "max" : 0,
+      "min" : 0,
+      "average" : 0
+    }, {
+      "max" : 10883,
+      "min" : 7029,
+      "average" : 8655
+    }, {
+      "max" : 89,
+      "min" : 48,
+      "average" : 69
+    } ]
+  }, {
+    "calls" : [ {
+      "max" : 33615,
+      "min" : 33309,
+      "average" : 33462
+    }, {
+      "max" : 7829,
+      "min" : 4763,
+      "average" : 6296
+    }, {
+      "max" : 6847,
+      "min" : 4229,
+      "average" : 5538
+    }, {
+      "max" : 6808,
+      "min" : 4220,
+      "average" : 5514
+    }, {
+      "max" : 954,
+      "min" : 832,
+      "average" : 893
+    }, {
+      "max" : 0,
+      "min" : 0,
+      "average" : 0
+    }, {
+      "max" : 7511,
+      "min" : 4113,
+      "average" : 5564
+    }, {
+      "max" : 70,
+      "min" : 2,
+      "average" : 23
+    } ]
+  }, {
+    "calls" : [ {
+      "max" : 30113,
+      "min" : 30009,
+      "average" : 30061
+    }, {
+      "max" : 6958,
+      "min" : 4345,
+      "average" : 5651
+    }, {
+      "max" : 6423,
+      "min" : 3968,
+      "average" : 5195
+    }, {
+      "max" : 6404,
+      "min" : 3949,
+      "average" : 5176
+    }, {
+      "max" : 1106,
+      "min" : 1009,
+      "average" : 1057
+    }, {
+      "max" : 0,
+      "min" : 0,
+      "average" : 0
+    }, {
+      "max" : 7324,
+      "min" : 4460,
+      "average" : 5600
+    }, {
+      "max" : 38,
+      "min" : 5,
+      "average" : 19
+    } ]
+  }, {
+    "calls" : [ {
+      "max" : 39713,
+      "min" : 35043,
+      "average" : 37378
+    }, {
+      "max" : 7144,
+      "min" : 5736,
+      "average" : 6440
+    }, {
+      "max" : 6672,
+      "min" : 5369,
+      "average" : 6020
+    }, {
+      "max" : 6633,
+      "min" : 5335,
+      "average" : 5984
+    }, {
+      "max" : 1488,
+      "min" : 1328,
+      "average" : 1408
+    }, {
+      "max" : 0,
+      "min" : 0,
+      "average" : 0
+    }, {
+      "max" : 7928,
+      "min" : 6452,
+      "average" : 6920
+    }, {
+      "max" : 226,
+      "min" : 47,
+      "average" : 114
+    } ]
+  }, {
+    "calls" : [ {
+      "max" : 38166,
+      "min" : 33701,
+      "average" : 35933
+    }, {
+      "max" : 5454,
+      "min" : 5354,
+      "average" : 5404
+    }, {
+      "max" : 5012,
+      "min" : 4953,
+      "average" : 4982
+    }, {
+      "max" : 4987,
+      "min" : 4921,
+      "average" : 4954
+    }, {
+      "max" : 1586,
+      "min" : 1287,
+      "average" : 1436
+    }, {
+      "max" : 0,
+      "min" : 0,
+      "average" : 0
+    }, {
+      "max" : 7109,
+      "min" : 6093,
+      "average" : 6502
+    }, {
+      "max" : 194,
+      "min" : 43,
+      "average" : 112
+    } ]
+  } ],
+  "date" : 1487424721236
+}

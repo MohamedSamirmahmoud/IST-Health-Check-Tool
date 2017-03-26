@@ -1,0 +1,8 @@
+{
+  "senderEmail" : "mohamedsamirmahmoud19",
+  "password" : "01141914097",
+  "receivers" : "mohammed.samir@istnetworks.com;",
+  "iconKPIs" : [ true, true, true, true, true , true ],
+  "speechMinerKPIs" : [ true, true ],
+  "sendOnlyIfKPISBelowAverage" : false
+}

@@ -1,0 +1,12 @@
+{
+  "serverIP" : "192.168.10.44",
+  "portNumber" : 1433,
+  "iconDatabaseName" : "icon",
+  "speechMinorDatabaseName" : "speechminer_ver8_5_504",
+  "gimDatabaseName" : "gim" ,
+  "enableMail" : true,
+  "enableSMS" : false,
+  "userName" : "sa",
+  "password" : "careem1234",
+  "accountName" : "Careem"
+}

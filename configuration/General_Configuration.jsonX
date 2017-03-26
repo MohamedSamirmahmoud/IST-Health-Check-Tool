@@ -1,0 +1,12 @@
+{
+  "serverIP" : "10.12.0.174",
+  "portNumber" : 1433,
+  "iconDatabaseName" : "icon",
+  "speechMinorDatabaseName" : "gir",
+  "gimDatabaseName" : "gim" ,
+  "enableMail" : true,
+  "enableSMS" : false,
+  "userName" : "sa",
+  "password" : "Manager123!",
+  "accountName" : "Vakif"
+}
